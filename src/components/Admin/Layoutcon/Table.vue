@@ -203,7 +203,7 @@ export default {
         hoten: "Frozen Yogur tabc@gamil.com ",
         img: "https://i.pinimg.com/236x/cd/d8/98/cdd898c1fe5cb166f7f23b415e00bf91.jpg",
         ngay: "12 - 10 - 2002",
-        sdt: "024333333",git init
+        sdt: "024333333",
         ddanh: "True",
         baitap: "Cập Nhật",
         eamil: "abc@gamil.com",
