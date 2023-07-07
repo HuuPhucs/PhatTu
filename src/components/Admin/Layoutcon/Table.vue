@@ -169,7 +169,7 @@ export default {
         eamil: "abc@gamil.com",
       },
       {
-        id: 1,
+        id: 2,
         hoten: "Frozen Yogur tabc@gamil.com ",
         img: "https://i.pinimg.com/564x/23/ec/d0/23ecd00b04838f67a16d46a9a3eb3d38.jpg",
         ngay: "12 - 10 - 2002",
@@ -179,7 +179,7 @@ export default {
         eamil: "abc@gamil.com",
       },
       {
-        id: 1,
+        id: 3,
         hoten: "Frozen Yogur tabc@gamil.com ",
         img: "https://i.pinimg.com/236x/fc/5c/13/fc5c13342ec069c03707427c861959b4.jpg",
         ngay: "12 - 10 - 2002",
@@ -189,7 +189,7 @@ export default {
         eamil: "abc@gamil.com",
       },
       {
-        id: 1,
+        id: 4,
         hoten: "Frozen Yogur tabc@gamil.com ",
         img: "https://i.pinimg.com/236x/b4/65/94/b465945ffbb05a84e43589b71e535450.jpg",
         ngay: "12 - 10 - 2002",
@@ -199,7 +199,7 @@ export default {
         eamil: "abc@gamil.com",
       },
       {
-        id: 1,
+        id: 5,
         hoten: "Frozen Yogur tabc@gamil.com ",
         img: "https://i.pinimg.com/236x/cd/d8/98/cdd898c1fe5cb166f7f23b415e00bf91.jpg",
         ngay: "12 - 10 - 2002",
